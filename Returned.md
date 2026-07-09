@@ -15,6 +15,9 @@ kanban-plugin: board
 
 - [ ] [[Interaction System]]
 - [ ] [[Actor Abstraction]]
+- [ ] Zombies
+- [ ] Animals
+- [ ] Resources
 
 
 ## 🔨 To Do
