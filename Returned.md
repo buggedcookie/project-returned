@@ -8,6 +8,9 @@ kanban-plugin: board
 
 - [ ] YY/MM/DD System
 - [ ] Weather
+- [ ] Resources
+- [ ] Animals
+- [ ] Zombies
 - [ ] Moon phases
 
 
@@ -15,9 +18,6 @@ kanban-plugin: board
 
 - [ ] [[Interaction System]]
 - [ ] [[Actor Abstraction]]
-- [ ] Zombies
-- [ ] Animals
-- [ ] Resources
 
 
 ## 🔨 To Do

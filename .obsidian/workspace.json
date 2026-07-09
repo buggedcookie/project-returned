@@ -11,22 +11,14 @@
             "id": "3a4bbcc3144a8f48",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Returned.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Input System.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Returned"
+              "icon": "lucide-file",
+              "title": "Input System"
             }
           }
         ]
@@ -203,11 +195,11 @@
   },
   "active": "3a4bbcc3144a8f48",
   "lastOpenFiles": [
-    "2026-07-08.md",
     "Returned.md",
+    "Player Movement.md",
+    "2026-07-08.md",
     "Input System.md",
     "Actor Abstraction.md",
-    "Player Movement.md",
     "Interaction System.md",
     "Player Movement 1.md",
     "Untitled.canvas",

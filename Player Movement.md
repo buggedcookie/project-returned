@@ -34,3 +34,5 @@
 
 ## Other Movement
 - [ ] Leaning `Q/E`
+
+> Can't seem to decide on whether I should do the movements with a rigidbody, a character controller or completely on my own
