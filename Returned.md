@@ -18,6 +18,7 @@ kanban-plugin: board
 
 - [ ] [[Interaction System]]
 - [ ] [[Actor Abstraction]]
+- [ ] Pawn System ? (For Input system)
 
 
 ## 🔨 To Do
